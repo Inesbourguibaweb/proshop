@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import products from '../products';
 import { Link } from 'react-router-dom';
 import { Row, Col, Image, ListGroup, Card, Button } from 'react-bootstrap';
 import { useParams } from 'react-router-dom';
